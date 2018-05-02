@@ -1,0 +1,10 @@
+DROP TABLE dirige
+DROP TABLE responsable
+DROP TABLE detencion
+DROP TABLE comete
+DROP TABLE oficial
+DROP TABLE policia
+DROP TABLE comisaria
+DROP TABLE agente
+DROP TABLE delito
+DROP TABLE delincuente

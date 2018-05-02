@@ -1,0 +1,6 @@
+DROP TABLE libro2;
+DROP TABLE usuario2;
+DROP TABLE autor2;
+DROP TABLE escrito2;
+DROP TABLE tema2;
+DROP TABLE prestamo2;

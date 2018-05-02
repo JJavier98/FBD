@@ -1,0 +1,9 @@
+DROP TABLE emite
+DROP TABLE presenta_informativo
+DROP TABLE presenta_concurso
+DROP TABLE informativo
+DROP TABLE concurso
+DROP TABLE pelicula
+DROP TABLE canal
+DROP TABLE programa
+DROP TABLE presentador
